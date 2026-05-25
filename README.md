@@ -22,3 +22,4 @@
 - [流浪者](./diaries/stray.md)
 - [Strider](./diaries/strider.md)
 - [Ghosts](./diaries/ghosts.md)
+- [Golbo](./diaries/golbo.md)
